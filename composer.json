@@ -1,0 +1,16 @@
+{
+  "name": "phant0m/tp_php",
+  "description": "Une petite application qui permet de créer des cartes et de les visualiser",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "phant0m"
+    }
+  ],
+  "require": {}
+}
